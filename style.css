@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron:regular,500,600,700,800,900);
+body {
+    background-image: url('bg1.jpg'); 
+    background-size:cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+body {
+    color: white;
+    
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: orbitron;
+}
+.container {
+    text-align: center;
+    padding: 30vh;
+}
+
+h1 {
+    font-size: 29px;
+}
+
+button {
+    border-radius: 5px;
+    background-color: #007bff;
+    width: 100px;
+    height: 47px;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button:hover{
+    background-color: orangered;
+}
+#image1{
+    margin-right: 24px;
+    margin-left: 24px;
+}
+#footer_credit {
+    text-align: center;
+    color: white;
+    font-family: orbitron;
+    margin-top: 40px;
+    font-weight: 600;
+  }
